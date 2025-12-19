@@ -27,7 +27,8 @@
         "illuminate/database": "^12",
         "gildsmith/support": "dev-master",
         "gildsmith/contract": "dev-master",
-        "laravel/pint": "^1"
+        "laravel/pint": "^1",
+        "pestphp/pest": "*"
     },
     "config": {
         "allow-plugins": {
